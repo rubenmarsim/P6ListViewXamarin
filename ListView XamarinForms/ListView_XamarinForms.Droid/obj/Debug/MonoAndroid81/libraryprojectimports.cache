@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>
+    <Jar>C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms.Droid\obj\Debug\MonoAndroid81\lp\0\jl\formsviewgroup.jar</Jar>
+  </Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms.Droid\obj\Debug\MonoAndroid81\lp\15\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms.Droid\obj\Debug\MonoAndroid81\lp\16\jl\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\\Debug\MonoAndroid81\lp\15\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\\Debug\MonoAndroid81\lp\16\jl\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms.Droid\obj\Debug\MonoAndroid81\lp\15.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms.Droid\obj\Debug\MonoAndroid81\lp\16.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

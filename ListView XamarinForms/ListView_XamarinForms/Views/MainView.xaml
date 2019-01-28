@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ListView_XamarinForms.Views.MainView"
+             Title="ListView">
+  <StackLayout>
+    <Button 
+      Text="Lista más básica"
+      Command="{Binding BasicCommand}"/>
+    <Button
+      Text="Enlace a datos"
+      Command="{Binding DataBindCommand}"/>
+    <Button
+      Text="TextCell"
+      Command="{Binding TextCellCommand}"/>
+    <Button
+      Text="ImageCell"
+      Command="{Binding ImageCellCommand}"/>
+    <Button
+      Text="CustomCell"
+      Command="{Binding CustomCellCommand}"/>
+    <Button
+      Text="Rendimiento"
+      Command="{Binding PerformanceCommand}"/>
+  </StackLayout>
+</ContentPage>

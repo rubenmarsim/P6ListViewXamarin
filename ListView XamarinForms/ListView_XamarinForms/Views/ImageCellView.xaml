@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ListView_XamarinForms.Views.ImageCellView"
+             Title="ImageCell">
+  <ListView
+    ItemsSource="{Binding Monkeys}">
+    <ListView.ItemTemplate>
+      <DataTemplate>
+        <ImageCell
+          ImageSource="{Binding Image}"
+          Text="{Binding Name}"
+          TextColor="Black"
+          Detail="{Binding Location}"
+          DetailColor="Gray"/>
+      </DataTemplate>
+    </ListView.ItemTemplate>
+  </ListView>
+</ContentPage>

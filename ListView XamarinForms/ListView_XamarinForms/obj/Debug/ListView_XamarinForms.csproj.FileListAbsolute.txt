@@ -1,0 +1,81 @@
+C:\Users\javie\Desktop\Code\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\ListView_XamarinForms.dll
+C:\Users\javie\Desktop\Code\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\ListView_XamarinForms.pdb
+C:\Users\javie\Desktop\Code\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\javie\Desktop\Code\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\javie\Desktop\Code\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\javie\Desktop\Code\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\javie\Desktop\Code\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\javie\Desktop\Code\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\javie\Desktop\Code\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\javie\Desktop\Code\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\javie\Desktop\Code\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\javie\Desktop\Code\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\javie\Desktop\Code\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\javie\Desktop\Code\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\javie\Desktop\Code\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\javie\Desktop\Code\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.csprojResolveAssemblyReference.cache
+C:\Users\javie\Desktop\Code\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.App.xaml.g.cs
+C:\Users\javie\Desktop\Code\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.Views.MainView.xaml.g.cs
+C:\Users\javie\Desktop\Code\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.Views.BasicView.xaml.g.cs
+C:\Users\javie\Desktop\Code\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.Views.DataBindingView.xaml.g.cs
+C:\Users\javie\Desktop\Code\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.Views.TextCellView.xaml.g.cs
+C:\Users\javie\Desktop\Code\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.Views.ImageCellView.xaml.g.cs
+C:\Users\javie\Desktop\Code\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.Views.CustomCellView.xaml.g.cs
+C:\Users\javie\Desktop\Code\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.Views.PerformanceView.xaml.g.cs
+C:\Users\javie\Desktop\Code\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.dll
+C:\Users\javie\Desktop\Code\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.pdb
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.csprojResolveAssemblyReference.cache
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.csproj.CoreCompileInputs.cache
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.dll
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.pdb
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\ListView_XamarinForms.dll
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\ListView_XamarinForms.pdb
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Microsoft.Practices.Unity.dll
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Xamarin.Forms.Core.dll
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Xamarin.Forms.Platform.dll
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Microsoft.Practices.Unity.xml
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Xamarin.Forms.Core.pdb
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Xamarin.Forms.Core.xml
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.App.xaml.g.cs
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.Views.MainView.xaml.g.cs
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.Views.BasicView.xaml.g.cs
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.Views.DataBindingView.xaml.g.cs
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.Views.TextCellView.xaml.g.cs
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.Views.ImageCellView.xaml.g.cs
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.Views.CustomCellView.xaml.g.cs
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.Views.PerformanceView.xaml.g.cs
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\bin\Debug\ListView_XamarinForms.dll
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\bin\Debug\ListView_XamarinForms.pdb
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.csprojAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.App.xaml.g.cs
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.Views.MainView.xaml.g.cs
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.Views.BasicView.xaml.g.cs
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.Views.DataBindingView.xaml.g.cs
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.Views.TextCellView.xaml.g.cs
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.Views.ImageCellView.xaml.g.cs
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.Views.CustomCellView.xaml.g.cs
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.Views.PerformanceView.xaml.g.cs
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.csproj.CopyComplete
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.dll
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.pdb

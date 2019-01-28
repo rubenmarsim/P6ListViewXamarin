@@ -1,0 +1,2 @@
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms.UWP\ListView_XamarinForms.UWP.csproj;x86
+C:\temp\ListView XamarinForms\ListView XamarinForms\ListView_XamarinForms\ListView_XamarinForms.csproj;neutral
