@@ -100,6 +100,8 @@ C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView
 C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms.Droid\obj\Debug\MonoAndroid81\android\assets\System.Xml.Linq.pdb
 C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms.Droid\obj\Debug\MonoAndroid81\android\assets\System.Xml.pdb
 C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms.Droid\bin\Debug\ListView_XamarinForms.Droid.dll
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\bin\Debug\ListView_XamarinForms.dll
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms.Droid\bin\Debug\ListView_XamarinForms.dll.mdb
 C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms.Droid\obj\Debug\MonoAndroid81\linksrc\ListView_XamarinForms.Droid.dll.mdb
 C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms.Droid\obj\Debug\MonoAndroid81\linksrc\FormsViewGroup.dll.mdb
 C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms.Droid\obj\Debug\MonoAndroid81\linksrc\ListView_XamarinForms.dll.mdb
