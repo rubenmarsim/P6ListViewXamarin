@@ -11,7 +11,7 @@
         Orientation="Horizontal"
         HorizontalOptions="CenterAndExpand">
         <Label
-          Text="Monkeys"
+          Text="Lista personajes DC"
           TextColor="White"
           BackgroundColor="Black" />
       </StackLayout>
@@ -29,7 +29,7 @@
             <StackLayout
               Orientation="Vertical">
               <Label
-                Text="{Binding Location}"
+                Text="{Binding Name}"
                 TextColor="#f35e20" />
               <Label
                 Text="{Binding Location}"

@@ -11,20 +11,20 @@ namespace ListView_XamarinForms.Views
         {
             InitializeComponent();
 
-            BindingContext = App.Locator.TextCellViewModel;
+            BindingContext = App.Locator.CustomCellViewModel;
 
             Parameter = parameter;
         }
 
         protected override void OnAppearing()
         {
-            var viewModel = BindingContext as TextCellViewModel;
+            var viewModel = BindingContext as CustomCellViewModel;
             if (viewModel != null) viewModel.OnAppearing(Parameter);
         }
 
         protected override void OnDisappearing()
         {
-            var viewModel = BindingContext as TextCellViewModel;
+            var viewModel = BindingContext as CustomCellViewModel;
             if (viewModel != null) viewModel.OnDisappearing();
         }
     }

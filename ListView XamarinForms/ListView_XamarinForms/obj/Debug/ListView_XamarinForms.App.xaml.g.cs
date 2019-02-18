@@ -11,7 +11,7 @@
 namespace ListView_XamarinForms {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\javie\\Desktop\\Code\\ListView XamarinForms\\ListView XamarinForms\\ListView_" +
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\admin\\Documents\\GitHub\\P6ListViewXamarin\\ListView XamarinForms\\ListView_" +
         "XamarinForms\\App.xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         

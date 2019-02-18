@@ -11,7 +11,7 @@
 namespace ListView_XamarinForms.Views {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\javie\\Desktop\\Code\\ListView XamarinForms\\ListView XamarinForms\\ListView_" +
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\admin\\Documents\\GitHub\\P6ListViewXamarin\\ListView XamarinForms\\ListView_" +
         "XamarinForms\\Views\\PerformanceView.xaml")]
     public partial class PerformanceView : global::Xamarin.Forms.ContentPage {
         

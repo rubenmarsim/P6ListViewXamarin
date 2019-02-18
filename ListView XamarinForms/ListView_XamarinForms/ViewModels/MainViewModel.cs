@@ -12,7 +12,6 @@ namespace ListView_XamarinForms.ViewModels
         private ICommand _imageCellCommand;
         private ICommand _performanceCommand;
         private ICommand _textCellCommand;
-
         private INavigationService _navigationService;
 
         public MainViewModel(INavigationService navigationService)
