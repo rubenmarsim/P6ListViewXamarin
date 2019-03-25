@@ -1,4 +1,5 @@
-﻿using ListView_XamarinForms.ViewModels;
+﻿using ListView_XamarinForms.Models;
+using ListView_XamarinForms.ViewModels;
 using Xamarin.Forms;
 
 namespace ListView_XamarinForms.Views
@@ -14,7 +15,13 @@ namespace ListView_XamarinForms.Views
             BindingContext = App.Locator.CustomCellViewModel;
 
             Parameter = parameter;
+            Llista.ItemSelected += Llista_ItemSelected;
         }
+        public void Llista_ItemSelected(object sende, SelectedItemChangedEventArgs e)
+        {
+            Navigation.PushModalAsync(new Personatge((Monkey)e.SelectedItem));
+        }
+
 
         protected override void OnAppearing()
         {
@@ -26,6 +33,11 @@ namespace ListView_XamarinForms.Views
         {
             var viewModel = BindingContext as CustomCellViewModel;
             if (viewModel != null) viewModel.OnDisappearing();
+        }
+
+        private void onImageCitizenReporterTapped(object sender, System.EventArgs e)
+        {
+
         }
     }
 }

@@ -1,12 +1,30 @@
-﻿using ListView_XamarinForms.Models;
+﻿using Android.Widget;
+using ListView_XamarinForms.Models;
 using ListView_XamarinForms.ViewModels.Base;
+using System;
 using System.Collections.ObjectModel;
+using System.Windows.Input;
+using Xamarin.Forms;
 
 namespace ListView_XamarinForms.ViewModels
 {
     public class CustomCellViewModel : ViewModelBase
     {
+        //ConnectionClass cd = new ConnectionClass();
         public ObservableCollection<Monkey> Monkeys { get; set; }
+        ICommand _tapCommand;
+
+        public ICommand TapCommand
+        {
+            get { return _tapCommand = _tapCommand ?? new DelegateCommand(TapCommandExecute); }
+        }
+
+        private void TapCommandExecute()
+        {
+            Toast.MakeText(Android.App.Application.Context, "Hola", ToastLength.Long).Show();
+            //_navigationService.NavigateTo<BasicViewModel>();
+        }
+
 
         public CustomCellViewModel()
         {

@@ -13,7 +13,10 @@
           TextColor="Black"
           Detail="{Binding Location}"
           DetailColor="Gray"/>
-      </DataTemplate>
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Command="Binding TapCommand" NumberOfTapsRequired="1" />
+                </Image.GestureRecognizers>
+            </DataTemplate>
     </ListView.ItemTemplate>
   </ListView>
 </ContentPage>

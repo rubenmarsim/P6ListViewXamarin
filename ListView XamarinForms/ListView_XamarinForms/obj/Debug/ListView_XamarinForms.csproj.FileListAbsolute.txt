@@ -79,3 +79,7 @@ C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView
 C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.dll
 C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.pdb
 C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.csprojAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Mono.Android.dll
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Mono.Android.pdb
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\bin\Debug\Mono.Android.xml
+C:\Users\admin\Documents\GitHub\P6ListViewXamarin\ListView XamarinForms\ListView_XamarinForms\obj\Debug\ListView_XamarinForms.Views.Personatge.xaml.g.cs

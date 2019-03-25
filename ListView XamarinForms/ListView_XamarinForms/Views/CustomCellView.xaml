@@ -34,6 +34,9 @@
               <Label
                 Text="{Binding Location}"
                 TextColor="#503026" />
+              <button
+                Text="Hola">
+              </button>
             </StackLayout>
           </StackLayout>
         </ViewCell>
